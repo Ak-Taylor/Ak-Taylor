@@ -3,7 +3,7 @@
 </div>
 
 <div id= "badges" align="center">
-  <a href="https://adamkotaylor.wixsite.com/akot">
+  <a href="https://adamkotaylor.wixsite.com/akot" target = "_blank" rel="noopener">
   <img src = "https://shields.io/badge/Portfolio-00bd7e?logo=wix&logoColor=black&style=for-the-badge" alt="WixPortfolioSite"/>
   </a>
   <a href="https://www.linkedin.com/in/adam-taylor-8a610915b/">
